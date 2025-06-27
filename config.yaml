@@ -1,0 +1,9 @@
+path: C:\Users\Chris\Desktop\pdf_discovery
+train: data/train/images
+val: data/val/images
+test: data/test/images
+
+# Classes
+names:
+  0: table
+  1: finance
