@@ -7,3 +7,5 @@ test: data/test/images
 names:
   0: table
   1: finance
+
+# yolo task=detect mode=train model="foduucom/table-detection-and-extraction" data="config.yaml" epochs=50 imgsz=640 batch=8
